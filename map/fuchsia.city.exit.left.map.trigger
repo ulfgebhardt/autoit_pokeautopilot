@@ -1,0 +1,9 @@
+1;0;TD;fuchsia.city.map;-37;-13;
+-1;4;TD;fuchsia.city.exit.left.2.map;0;0;
+0;-4;TI;
+-5;-4;TN;
+-11;0;TD;route.18.map;0;0;
+-10;-4;TI;
+-12;0;TD;
+-11;-4;TI;
+-6;-4;TN;
